@@ -1,0 +1,8 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore IDE configuration files
+.idea/
+
+# Ignore the picture used in the code
+mine_earth/
